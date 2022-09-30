@@ -16,6 +16,7 @@
                 <searchpanel>
                     <field name="user_id" icon="fa fa-users"/>
                     <field name="category_id" icon="fa fa-list" select="multi"/>
+                    <field name="type" icon="fa fa-list"/>
                 </searchpanel>
             </search>
         </field>
